@@ -1,3 +1,4 @@
 # abhay-kumar
-This is my first Git repository
-author- abhay
+This is my first Git repository.
+<br>
+author - abhay
